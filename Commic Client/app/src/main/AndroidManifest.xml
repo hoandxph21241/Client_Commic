@@ -13,25 +13,25 @@
         android:theme="@style/Theme.CommicClient"
         tools:targetApi="31">
         <activity
-            android:name=".Screen.User.ManHinhUser"
+            android:name=".Screen.User.UserScreen"
             android:exported="false" />
         <activity
-            android:name=".Screen.User.ManHinhEditUser"
+            android:name=".Screen.User.EditUserScreen"
             android:exported="false" />
         <activity
-            android:name=".Screen.login.ManHinhDangNhap"
+            android:name=".Screen.login.LoginScreen"
             android:exported="false" />
         <activity
-            android:name=".Screen.Register.ManHinhDangKy"
+            android:name=".Screen.Register.RegisterScreen"
             android:exported="false" />
         <activity
             android:name=".Screen.WellcomeScreen"
             android:exported="false" />
         <activity
-            android:name=".Screen.ManHinhChiTiet"
+            android:name=".Screen.DetailComicScreen"
             android:exported="false" />
         <activity
-            android:name=".Screen.ManHinhDocTruyen"
+            android:name=".Screen.DocTruyen"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import solana.client.commic.client.R;
 
-public class ManHinhDangNhap extends AppCompatActivity {
+public class LoginScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

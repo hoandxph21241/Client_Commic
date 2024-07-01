@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import solana.client.commic.client.R;
 
-public class ManHinhChiTiet extends AppCompatActivity {
+public class DetailComicScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,4 +1,4 @@
-package solana.client.commic.client.Screen.Register;
+package solana.client.commic.client.Screen.User;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import solana.client.commic.client.R;
 
-public class ManHinhDangKy extends AppCompatActivity {
+public class EditUserScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_man_hinh_dang_ky);
+        setContentView(R.layout.activity_man_hinh_edit_user);
     }
 }
